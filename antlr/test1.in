@@ -1,0 +1,14 @@
+mul();
+mul(mul());
+mul(1,2,mul(3));
+mul(mul(1),2,3);
+mul(mul(1,2,3),4,mul());
+
+sum();
+sum(sum());
+sum(1,2,sum(3));
+sum(sum(1),2,3);
+sum(sum(1,2,3),4,sum());
+
+sum(mul(), mul(1,2,3), sum(), sum(4,5,6), 7, 8);
+sum(mul(1,2,3,sum(4,5,6)));

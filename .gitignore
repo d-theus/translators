@@ -1,0 +1,8 @@
+a.out
+*.tgz
+*.zip
+*.o
+*.log
+log
+*.swp
+tags

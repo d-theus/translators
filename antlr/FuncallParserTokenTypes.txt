@@ -1,0 +1,10 @@
+// $ANTLR 2.7.7 (20130818): funcall.g -> FuncallParserTokenTypes.txt$
+FuncallParser    // output token vocab name
+SC=4
+ID=5
+OB=6
+CB=7
+COL=8
+INT=9
+WS_=10
+DIGIT=11
